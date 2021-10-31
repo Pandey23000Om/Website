@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(235, 255, 255);
+    margin: 5%;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: gold;
+    width: 30%;
+}
+
+h3 {
+    color: rgb(12, 156, 137);
+}
+
+h1 {
+    color: rgb(18, 165, 165);
+    align-self: center;
+}
+
+p {
+    color: rgb(104, 32, 27);
+}
